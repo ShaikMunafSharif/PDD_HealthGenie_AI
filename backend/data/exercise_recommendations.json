@@ -1,0 +1,136 @@
+[
+  {
+    "category": "REST",
+    "activityLevel": "REST",
+    "plan": {
+      "Monday": [ 
+        { "name": "Deep breathing", "duration": "5 min", "calories": 10, "exercises": 1, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Neck rolls and gentle stretches", "duration": "5 min", "calories": 15, "exercises": 2, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Meditation", "duration": "10 min", "calories": 10, "exercises": 1, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Shoulder shrugs", "duration": "5 min", "calories": 10, "exercises": 1, "level": "Rest", "color": "#EF4444", "icon": "🧘" }
+      ],
+      "Tuesday": [ 
+        { "name": "Seated torso twists", "duration": "5 min", "calories": 15, "exercises": 2, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Deep breathing", "duration": "5 min", "calories": 10, "exercises": 1, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Guided imagery relaxation", "duration": "10 min", "calories": 10, "exercises": 1, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Wrist and ankle rolls", "duration": "5 min", "calories": 15, "exercises": 2, "level": "Rest", "color": "#EF4444", "icon": "🧘" }
+      ],
+      "Wednesday": [ 
+        { "name": "Gentle seated stretches", "duration": "10 min", "calories": 25, "exercises": 3, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Progressive muscle relaxation", "duration": "10 min", "calories": 15, "exercises": 1, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Deep breathing", "duration": "5 min", "calories": 10, "exercises": 1, "level": "Rest", "color": "#EF4444", "icon": "🧘" }
+      ],
+      "Thursday": [ 
+        { "name": "Deep breathing", "duration": "5 min", "calories": 10, "exercises": 1, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Shoulder shrugs and rolls", "duration": "5 min", "calories": 15, "exercises": 2, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Meditation", "duration": "10 min", "calories": 10, "exercises": 1, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Light neck stretches", "duration": "5 min", "calories": 15, "exercises": 2, "level": "Rest", "color": "#EF4444", "icon": "🧘" }
+      ],
+      "Friday": [ 
+        { "name": "Gentle seated stretches", "duration": "10 min", "calories": 25, "exercises": 3, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Meditation", "duration": "10 min", "calories": 10, "exercises": 1, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Deep breathing", "duration": "5 min", "calories": 10, "exercises": 1, "level": "Rest", "color": "#EF4444", "icon": "🧘" }
+      ],
+      "Saturday": [ 
+        { "name": "Ankle pumps and wrist rolls", "duration": "5 min", "calories": 10, "exercises": 2, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Deep breathing", "duration": "5 min", "calories": 10, "exercises": 1, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Guided imagery relaxation", "duration": "10 min", "calories": 10, "exercises": 1, "level": "Rest", "color": "#EF4444", "icon": "🧘" }
+      ],
+      "Sunday": [ 
+        { "name": "Gentle seated stretches", "duration": "10 min", "calories": 25, "exercises": 3, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Meditation", "duration": "10 min", "calories": 10, "exercises": 1, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Deep breathing", "duration": "5 min", "calories": 10, "exercises": 1, "level": "Rest", "color": "#EF4444", "icon": "🧘" },
+        { "name": "Seated torso twists", "duration": "5 min", "calories": 15, "exercises": 2, "level": "Rest", "color": "#EF4444", "icon": "🧘" }
+      ]
+    }
+  },
+  {
+    "category": "LIGHT",
+    "activityLevel": "LIGHT",
+    "plan": {
+      "Monday": [ 
+        { "name": "Slow walking", "duration": "15 min", "calories": 50, "exercises": 1, "level": "Light", "color": "#10B981", "icon": "🚶" },
+        { "name": "Basic dynamic stretching", "duration": "10 min", "calories": 30, "exercises": 4, "level": "Light", "color": "#10B981", "icon": "🧘" },
+        { "name": "Light core engagement", "duration": "5 min", "calories": 20, "exercises": 2, "level": "Light", "color": "#10B981", "icon": "🧘" },
+        { "name": "Cool-down deep breathing", "duration": "5 min", "calories": 10, "exercises": 1, "level": "Light", "color": "#10B981", "icon": "🧘" }
+      ],
+      "Tuesday": [ 
+        { "name": "Gentle yoga", "duration": "20 min", "calories": 80, "exercises": 5, "level": "Light", "color": "#10B981", "icon": "🧘" },
+        { "name": "Slow walking", "duration": "10 min", "calories": 35, "exercises": 1, "level": "Light", "color": "#10B981", "icon": "🚶" },
+        { "name": "Ankle and wrist rolls", "duration": "5 min", "calories": 15, "exercises": 2, "level": "Light", "color": "#10B981", "icon": "🧘" }
+      ],
+      "Wednesday": [ 
+        { "name": "Basic stretching", "duration": "10 min", "calories": 40, "exercises": 4, "level": "Light", "color": "#10B981", "icon": "🧘" },
+        { "name": "Tai Chi fundamentals", "duration": "15 min", "calories": 60, "exercises": 2, "level": "Light", "color": "#10B981", "icon": "🧘" },
+        { "name": "Standing calf raises", "duration": "5 min", "calories": 25, "exercises": 2, "level": "Light", "color": "#10B981", "icon": "🚶" }
+      ],
+      "Thursday": [ 
+        { "name": "Slow walking", "duration": "20 min", "calories": 70, "exercises": 1, "level": "Light", "color": "#10B981", "icon": "🚶" },
+        { "name": "Lower body light stretches", "duration": "10 min", "calories": 30, "exercises": 3, "level": "Light", "color": "#10B981", "icon": "🧘" },
+        { "name": "Light core engagement", "duration": "5 min", "calories": 20, "exercises": 2, "level": "Light", "color": "#10B981", "icon": "🧘" },
+        { "name": "Guided meditation", "duration": "10 min", "calories": 10, "exercises": 1, "level": "Light", "color": "#10B981", "icon": "🧘" }
+      ],
+      "Friday": [ 
+        { "name": "Tai Chi", "duration": "20 min", "calories": 80, "exercises": 3, "level": "Light", "color": "#10B981", "icon": "🧘" },
+        { "name": "Basic dynamic stretching", "duration": "10 min", "calories": 30, "exercises": 4, "level": "Light", "color": "#10B981", "icon": "🧘" },
+        { "name": "Deep breathing", "duration": "5 min", "calories": 10, "exercises": 1, "level": "Light", "color": "#10B981", "icon": "🧘" }
+      ],
+      "Saturday": [ 
+        { "name": "Basic stretching", "duration": "15 min", "calories": 50, "exercises": 5, "level": "Light", "color": "#10B981", "icon": "🧘" },
+        { "name": "Gentle yoga flow", "duration": "15 min", "calories": 60, "exercises": 4, "level": "Light", "color": "#10B981", "icon": "🧘" },
+        { "name": "Slow walking", "duration": "10 min", "calories": 35, "exercises": 1, "level": "Light", "color": "#10B981", "icon": "🚶" }
+      ],
+      "Sunday": [ 
+        { "name": "Slow walking", "duration": "25 min", "calories": 85, "exercises": 1, "level": "Light", "color": "#10B981", "icon": "🚶" },
+        { "name": "Light core engagement", "duration": "5 min", "calories": 20, "exercises": 2, "level": "Light", "color": "#10B981", "icon": "🧘" },
+        { "name": "Cool-down deep breathing", "duration": "5 min", "calories": 10, "exercises": 1, "level": "Light", "color": "#10B981", "icon": "🧘" }
+      ]
+    }
+  },
+  {
+    "category": "MODERATE",
+    "activityLevel": "MODERATE",
+    "plan": {
+      "Monday": [ 
+        { "name": "Brisk walking", "duration": "20 min", "calories": 100, "exercises": 1, "level": "Moderate", "color": "#F59E0B", "icon": "🚶" },
+        { "name": "Bodyweight squats", "duration": "10 min", "calories": 80, "exercises": 3, "level": "Moderate", "color": "#F59E0B", "icon": "💪" },
+        { "name": "Core stabilization", "duration": "10 min", "calories": 60, "exercises": 3, "level": "Moderate", "color": "#F59E0B", "icon": "💪" },
+        { "name": "Cool-down stretches", "duration": "5 min", "calories": 20, "exercises": 3, "level": "Light", "color": "#10B981", "icon": "🧘" }
+      ],
+      "Tuesday": [ 
+        { "name": "Light jogging", "duration": "20 min", "calories": 150, "exercises": 1, "level": "Moderate", "color": "#F59E0B", "icon": "🏃" },
+        { "name": "Pushups & Planks", "duration": "10 min", "calories": 90, "exercises": 3, "level": "Moderate", "color": "#F59E0B", "icon": "💪" },
+        { "name": "Bodyweight lunges", "duration": "10 min", "calories": 85, "exercises": 3, "level": "Moderate", "color": "#F59E0B", "icon": "💪" },
+        { "name": "Cool-down stretches", "duration": "5 min", "calories": 20, "exercises": 3, "level": "Light", "color": "#10B981", "icon": "🧘" }
+      ],
+      "Wednesday": [ 
+        { "name": "Cycling", "duration": "20 min", "calories": 160, "exercises": 1, "level": "Moderate", "color": "#F59E0B", "icon": "🚴" },
+        { "name": "Bodyweight lunges", "duration": "10 min", "calories": 85, "exercises": 3, "level": "Moderate", "color": "#F59E0B", "icon": "💪" },
+        { "name": "Core stabilization", "duration": "10 min", "calories": 60, "exercises": 3, "level": "Moderate", "color": "#F59E0B", "icon": "💪" },
+        { "name": "Cool-down stretches", "duration": "5 min", "calories": 20, "exercises": 3, "level": "Light", "color": "#10B981", "icon": "🧘" }
+      ],
+      "Thursday": [ 
+        { "name": "Swimming or Cycling", "duration": "25 min", "calories": 180, "exercises": 1, "level": "Moderate", "color": "#F59E0B", "icon": "🚴" },
+        { "name": "Full-body stretching", "duration": "10 min", "calories": 40, "exercises": 5, "level": "Light", "color": "#10B981", "icon": "🧘" },
+        { "name": "Core stabilization", "duration": "10 min", "calories": 60, "exercises": 3, "level": "Moderate", "color": "#F59E0B", "icon": "💪" }
+      ],
+      "Friday": [ 
+        { "name": "Brisk walking", "duration": "20 min", "calories": 100, "exercises": 1, "level": "Moderate", "color": "#F59E0B", "icon": "🚶" },
+        { "name": "Bodyweight squats", "duration": "10 min", "calories": 80, "exercises": 3, "level": "Moderate", "color": "#F59E0B", "icon": "💪" },
+        { "name": "Pushups & Planks", "duration": "10 min", "calories": 90, "exercises": 3, "level": "Moderate", "color": "#F59E0B", "icon": "💪" },
+        { "name": "Cool-down stretches", "duration": "5 min", "calories": 20, "exercises": 3, "level": "Light", "color": "#10B981", "icon": "🧘" }
+      ],
+      "Saturday": [ 
+        { "name": "Light jogging", "duration": "25 min", "calories": 185, "exercises": 1, "level": "Moderate", "color": "#F59E0B", "icon": "🏃" },
+        { "name": "Core stabilization", "duration": "10 min", "calories": 60, "exercises": 3, "level": "Moderate", "color": "#F59E0B", "icon": "💪" },
+        { "name": "Bodyweight lunges", "duration": "10 min", "calories": 85, "exercises": 3, "level": "Moderate", "color": "#F59E0B", "icon": "💪" },
+        { "name": "Cool-down stretches", "duration": "5 min", "calories": 20, "exercises": 3, "level": "Light", "color": "#10B981", "icon": "🧘" }
+      ],
+      "Sunday": [ 
+        { "name": "Full-body stretching", "duration": "15 min", "calories": 60, "exercises": 6, "level": "Light", "color": "#10B981", "icon": "🧘" },
+        { "name": "Brisk walking", "duration": "15 min", "calories": 75, "exercises": 1, "level": "Moderate", "color": "#F59E0B", "icon": "🚶" },
+        { "name": "Core stabilization", "duration": "10 min", "calories": 60, "exercises": 3, "level": "Moderate", "color": "#F59E0B", "icon": "💪" }
+      ]
+    }
+  }
+]

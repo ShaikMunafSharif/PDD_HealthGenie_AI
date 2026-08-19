@@ -1,0 +1,831 @@
+{
+  "meal_img_9489969720": {
+    "mealId": "meal_img_9489969720",
+    "mealTitle": "Large bowl of oatmeal with peanut butter, banana, and protein powder",
+    "description": "Large bowl of oatmeal with peanut butter, banana, and protein powder",
+    "ingredients": [
+      "oatmeal",
+      "peanut butter",
+      "banana",
+      "protein powder"
+    ],
+    "mealCategory": "breakfast",
+    "mealType": "breakfast",
+    "imagePrompt": "A realistic healthy breakfast dish consisting of Large bowl of oatmeal with peanut butter, banana, and protein powder, containing oatmeal, peanut butter, banana, protein powder, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-05T09:52:15.436Z"
+  },
+  "meal_img_3453156964": {
+    "mealId": "meal_img_3453156964",
+    "mealTitle": "Mixed nuts (50g) and dried fruit",
+    "description": "Mixed nuts (50g) and dried fruit",
+    "ingredients": [
+      "Mixed nuts (50g) and dried fruit"
+    ],
+    "mealCategory": "snack",
+    "mealType": "snack",
+    "imagePrompt": "A realistic healthy snack dish consisting of Mixed nuts (50g) and dried fruit, containing Mixed nuts (50g) and dried fruit, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1608797178974-15b35a64ede9?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-05T09:52:15.567Z"
+  },
+  "meal_img_7863144790": {
+    "mealId": "meal_img_7863144790",
+    "mealTitle": "Mass gainer shake or protein bar",
+    "description": "Mass gainer shake or protein bar",
+    "ingredients": [
+      "Mass gainer shake or protein bar"
+    ],
+    "mealCategory": "snack",
+    "mealType": "snack",
+    "imagePrompt": "A realistic healthy snack dish consisting of Mass gainer shake or protein bar, containing Mass gainer shake or protein bar, blended smoothie preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-05T09:52:15.573Z"
+  },
+  "meal_img_7495776503": {
+    "mealId": "meal_img_7495776503",
+    "mealTitle": "Smoothie bowl with peanut butter, protein, and granola",
+    "description": "Smoothie bowl with peanut butter, protein, and granola",
+    "ingredients": [
+      "peanut butter"
+    ],
+    "mealCategory": "breakfast",
+    "mealType": "breakfast",
+    "imagePrompt": "A realistic healthy breakfast dish consisting of Smoothie bowl with peanut butter, protein, and granola, containing peanut butter, blended smoothie preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1553530666-ba11a7da3888?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-05T09:52:29.720Z"
+  },
+  "meal_img_5365167270": {
+    "mealId": "meal_img_5365167270",
+    "mealTitle": "Turkey club sandwich with sweet potato fries",
+    "description": "Turkey club sandwich with sweet potato fries",
+    "ingredients": [
+      "turkey",
+      "sweet potato"
+    ],
+    "mealCategory": "lunch",
+    "mealType": "lunch",
+    "imagePrompt": "A realistic healthy lunch dish consisting of Turkey club sandwich with sweet potato fries, containing turkey, sweet potato, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-05T09:52:29.723Z"
+  },
+  "meal_img_3250956911": {
+    "mealId": "meal_img_3250956911",
+    "mealTitle": "Baked fish with roasted potatoes and asparagus",
+    "description": "Baked fish with roasted potatoes and asparagus",
+    "ingredients": [
+      "fish",
+      "asparagus"
+    ],
+    "mealCategory": "dinner",
+    "mealType": "dinner",
+    "imagePrompt": "A realistic healthy dinner dish consisting of Baked fish with roasted potatoes and asparagus, containing fish, asparagus, baked preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-05T09:52:29.726Z"
+  },
+  "meal_img_2561146385": {
+    "mealId": "meal_img_2561146385",
+    "mealTitle": "Greek yogurt with honey and almonds",
+    "description": "Greek yogurt with honey and almonds",
+    "ingredients": [
+      "honey",
+      "almonds",
+      "yogurt"
+    ],
+    "mealCategory": "snack",
+    "mealType": "snack",
+    "imagePrompt": "A realistic healthy snack dish consisting of Greek yogurt with honey and almonds, containing honey, almonds, yogurt, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-05T09:52:29.729Z"
+  },
+  "meal_img_536515148": {
+    "mealId": "meal_img_536515148",
+    "mealTitle": "Double grilled chicken bowl with rice, beans, and avocado",
+    "description": "Double grilled chicken bowl with rice, beans, and avocado",
+    "ingredients": [
+      "avocado",
+      "chicken",
+      "rice",
+      "beans"
+    ],
+    "mealCategory": "lunch",
+    "mealType": "lunch",
+    "imagePrompt": "A realistic healthy lunch dish consisting of Double grilled chicken bowl with rice, beans, and avocado, containing avocado, chicken, rice, beans, grilled preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-05T09:52:45.244Z"
+  },
+  "meal_img_454250044": {
+    "mealId": "meal_img_454250044",
+    "mealTitle": "Ribeye steak with baked potato and roasted vegetables",
+    "description": "Ribeye steak with baked potato and roasted vegetables",
+    "ingredients": [
+      "steak"
+    ],
+    "mealCategory": "dinner",
+    "mealType": "dinner",
+    "imagePrompt": "A realistic healthy dinner dish consisting of Ribeye steak with baked potato and roasted vegetables, containing steak, baked preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-05T09:52:45.246Z"
+  },
+  "meal_img_3649972461": {
+    "mealId": "meal_img_3649972461",
+    "mealTitle": "Protein shake and a banana",
+    "description": "Protein shake and a banana",
+    "ingredients": [
+      "banana"
+    ],
+    "mealCategory": "snack",
+    "mealType": "snack",
+    "imagePrompt": "A realistic healthy snack dish consisting of Protein shake and a banana, containing banana, blended smoothie preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-05T09:52:45.248Z"
+  },
+  "meal_img_887222687": {
+    "mealId": "meal_img_887222687",
+    "mealTitle": "Avocado toast (2 slices) with 3 eggs and cheese",
+    "description": "Avocado toast (2 slices) with 3 eggs and cheese",
+    "ingredients": [
+      "egg",
+      "avocado"
+    ],
+    "mealCategory": "breakfast",
+    "mealType": "breakfast",
+    "imagePrompt": "A realistic healthy breakfast dish consisting of Avocado toast (2 slices) with 3 eggs and cheese, containing egg, avocado, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-05T09:53:16.366Z"
+  },
+  "meal_img_4990572528": {
+    "mealId": "meal_img_4990572528",
+    "mealTitle": "Quinoa bowl with olive oil, chickpeas, feta, and chicken",
+    "description": "Quinoa bowl with olive oil, chickpeas, feta, and chicken",
+    "ingredients": [
+      "chickpeas",
+      "quinoa",
+      "chicken"
+    ],
+    "mealCategory": "lunch",
+    "mealType": "lunch",
+    "imagePrompt": "A realistic healthy lunch dish consisting of Quinoa bowl with olive oil, chickpeas, feta, and chicken, containing chickpeas, quinoa, chicken, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-05T09:53:16.370Z"
+  },
+  "meal_img_17267732449": {
+    "mealId": "meal_img_17267732449",
+    "mealTitle": "Grilled salmon (200g) with double rice and green beans",
+    "description": "Grilled salmon (200g) with double rice and green beans",
+    "ingredients": [
+      "green beans",
+      "salmon",
+      "rice",
+      "beans"
+    ],
+    "mealCategory": "dinner",
+    "mealType": "dinner",
+    "imagePrompt": "A realistic healthy dinner dish consisting of Grilled salmon (200g) with double rice and green beans, containing green beans, salmon, rice, beans, grilled preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-05T09:53:16.376Z"
+  },
+  "meal_img_4156042460": {
+    "mealId": "meal_img_4156042460",
+    "mealTitle": "3 whole wheat pancakes with syrup and scrambled eggs",
+    "description": "3 whole wheat pancakes with syrup and scrambled eggs",
+    "ingredients": [
+      "egg",
+      "pancakes"
+    ],
+    "mealCategory": "breakfast",
+    "mealType": "breakfast",
+    "imagePrompt": "A realistic healthy breakfast dish consisting of 3 whole wheat pancakes with syrup and scrambled eggs, containing egg, pancakes, scrambled preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-05T09:53:31.559Z"
+  },
+  "meal_img_4484953698": {
+    "mealId": "meal_img_4484953698",
+    "mealTitle": "Mediterranean wrap with hummus, chicken, and extra olive oil",
+    "description": "Mediterranean wrap with hummus, chicken, and extra olive oil",
+    "ingredients": [
+      "chicken",
+      "hummus"
+    ],
+    "mealCategory": "lunch",
+    "mealType": "lunch",
+    "imagePrompt": "A realistic healthy lunch dish consisting of Mediterranean wrap with hummus, chicken, and extra olive oil, containing chicken, hummus, fresh & healthy preparation, mediterranean style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-05T09:53:31.561Z"
+  },
+  "meal_img_24323948730": {
+    "mealId": "meal_img_24323948730",
+    "mealTitle": "Grilled chicken breast (200g) with pasta and garlic bread",
+    "description": "Grilled chicken breast (200g) with pasta and garlic bread",
+    "ingredients": [
+      "chicken",
+      "pasta"
+    ],
+    "mealCategory": "dinner",
+    "mealType": "dinner",
+    "imagePrompt": "A realistic healthy dinner dish consisting of Grilled chicken breast (200g) with pasta and garlic bread, containing chicken, pasta, grilled preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-05T09:53:31.566Z"
+  },
+  "meal_img_12065393639": {
+    "mealId": "meal_img_12065393639",
+    "mealTitle": "French toast with maple syrup and sausage",
+    "description": "French toast with maple syrup and sausage",
+    "ingredients": [
+      "french toast"
+    ],
+    "mealCategory": "breakfast",
+    "mealType": "breakfast",
+    "imagePrompt": "A realistic healthy breakfast dish consisting of French toast with maple syrup and sausage, containing french toast, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-08T10:37:33.247Z"
+  },
+  "meal_img_2735319309": {
+    "mealId": "meal_img_2735319309",
+    "mealTitle": "Pasta carbonara with chicken breast",
+    "description": "Pasta carbonara with chicken breast",
+    "ingredients": [
+      "chicken",
+      "pasta"
+    ],
+    "mealCategory": "dinner",
+    "mealType": "dinner",
+    "imagePrompt": "A realistic healthy dinner dish consisting of Pasta carbonara with chicken breast, containing chicken, pasta, fresh & healthy preparation, italian style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-08T10:37:33.249Z"
+  },
+  "meal_img_4615566559": {
+    "mealId": "meal_img_4615566559",
+    "mealTitle": "Double beef burger on brioche bun with side salad",
+    "description": "Double beef burger on brioche bun with side salad",
+    "ingredients": [
+      "beef"
+    ],
+    "mealCategory": "lunch",
+    "mealType": "lunch",
+    "imagePrompt": "A realistic healthy lunch dish consisting of Double beef burger on brioche bun with side salad, containing beef, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1520072959219-c595dc870360?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-08T10:37:33.252Z"
+  },
+  "meal_img_1517233365": {
+    "mealId": "meal_img_1517233365",
+    "mealTitle": "Protein bar and mixed berries",
+    "description": "Protein bar and mixed berries",
+    "ingredients": [
+      "berries"
+    ],
+    "mealCategory": "snack",
+    "mealType": "snack",
+    "imagePrompt": "A realistic healthy snack dish consisting of Protein bar and mixed berries, containing berries, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-08T10:37:33.290Z"
+  },
+  "meal_img_17189432431": {
+    "mealId": "meal_img_17189432431",
+    "mealTitle": "Omelette (4 eggs, spinach, mushrooms) with 2 slices of sourdough",
+    "description": "Omelette (4 eggs, spinach, mushrooms) with 2 slices of sourdough",
+    "ingredients": [
+      "egg",
+      "spinach",
+      "mushroom"
+    ],
+    "mealCategory": "breakfast",
+    "mealType": "breakfast",
+    "imagePrompt": "A realistic healthy breakfast dish consisting of Omelette (4 eggs, spinach, mushrooms) with 2 slices of sourdough, containing egg, spinach, mushroom, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1510693206972-df098062cb71?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-08T10:50:07.129Z"
+  },
+  "meal_img_1442869565": {
+    "mealId": "meal_img_1442869565",
+    "mealTitle": "Oatmeal with berries, honey, and almonds",
+    "description": "Oatmeal with berries, honey, and almonds",
+    "ingredients": [
+      "oatmeal",
+      "berries",
+      "honey",
+      "almonds"
+    ],
+    "mealCategory": "breakfast",
+    "mealType": "breakfast",
+    "imagePrompt": "A realistic healthy breakfast dish consisting of Oatmeal with berries, honey, and almonds, containing oatmeal, berries, honey, almonds, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-17T12:04:07.097Z"
+  },
+  "meal_img_26427967348": {
+    "mealId": "meal_img_26427967348",
+    "mealTitle": "Grilled chicken wrap with whole wheat tortilla",
+    "description": "Grilled chicken wrap with whole wheat tortilla",
+    "ingredients": [
+      "chicken"
+    ],
+    "mealCategory": "lunch",
+    "mealType": "lunch",
+    "imagePrompt": "A realistic healthy lunch dish consisting of Grilled chicken wrap with whole wheat tortilla, containing chicken, grilled preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-17T12:04:07.103Z"
+  },
+  "meal_img_5063858882": {
+    "mealId": "meal_img_5063858882",
+    "mealTitle": "Salmon filet with brown rice and broccoli",
+    "description": "Salmon filet with brown rice and broccoli",
+    "ingredients": [
+      "salmon",
+      "rice"
+    ],
+    "mealCategory": "dinner",
+    "mealType": "dinner",
+    "imagePrompt": "A realistic healthy dinner dish consisting of Salmon filet with brown rice and broccoli, containing salmon, rice, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-17T12:04:07.105Z"
+  },
+  "meal_img_2795217964": {
+    "mealId": "meal_img_2795217964",
+    "mealTitle": "Greek yogurt with 1 tsp honey",
+    "description": "Greek yogurt with 1 tsp honey",
+    "ingredients": [
+      "honey",
+      "yogurt"
+    ],
+    "mealCategory": "snack",
+    "mealType": "snack",
+    "imagePrompt": "A realistic healthy snack dish consisting of Greek yogurt with 1 tsp honey, containing honey, yogurt, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-17T12:04:07.108Z"
+  },
+  "meal_img_5141003906": {
+    "mealId": "meal_img_5141003906",
+    "mealTitle": "Quinoa salad bowl with chickpeas and olive oil",
+    "description": "Quinoa salad bowl with chickpeas and olive oil",
+    "ingredients": [
+      "chickpeas",
+      "quinoa"
+    ],
+    "mealCategory": "lunch",
+    "mealType": "lunch",
+    "imagePrompt": "A realistic healthy lunch dish consisting of Quinoa salad bowl with chickpeas and olive oil, containing chickpeas, quinoa, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:20:19.795Z"
+  },
+  "meal_img_10473080550": {
+    "mealId": "meal_img_10473080550",
+    "mealTitle": "Avocado toast with two fried eggs",
+    "description": "Avocado toast with two fried eggs",
+    "ingredients": [
+      "egg",
+      "avocado"
+    ],
+    "mealCategory": "breakfast",
+    "mealType": "breakfast",
+    "imagePrompt": "A realistic healthy breakfast dish consisting of Avocado toast with two fried eggs, containing egg, avocado, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:20:19.803Z"
+  },
+  "meal_img_14005411300": {
+    "mealId": "meal_img_14005411300",
+    "mealTitle": "Turkey breast with sweet potato and green beans",
+    "description": "Turkey breast with sweet potato and green beans",
+    "ingredients": [
+      "turkey",
+      "sweet potato",
+      "green beans",
+      "beans"
+    ],
+    "mealCategory": "dinner",
+    "mealType": "dinner",
+    "imagePrompt": "A realistic healthy dinner dish consisting of Turkey breast with sweet potato and green beans, containing turkey, sweet potato, green beans, beans, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1514944288352-fffac99f0bdf?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:20:19.809Z"
+  },
+  "meal_img_685435366": {
+    "mealId": "meal_img_685435366",
+    "mealTitle": "Mixed nuts and seeds (30g)",
+    "description": "Mixed nuts and seeds (30g)",
+    "ingredients": [
+      "Mixed nuts and seeds (30g)"
+    ],
+    "mealCategory": "snack",
+    "mealType": "snack",
+    "imagePrompt": "A realistic healthy snack dish consisting of Mixed nuts and seeds (30g), containing Mixed nuts and seeds (30g), fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1608797178974-15b35a64ede9?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:20:19.815Z"
+  },
+  "meal_img_1701819149": {
+    "mealId": "meal_img_1701819149",
+    "mealTitle": "Apple slices with peanut butter",
+    "description": "Apple slices with peanut butter",
+    "ingredients": [
+      "peanut butter"
+    ],
+    "mealCategory": "snack",
+    "mealType": "snack",
+    "imagePrompt": "A realistic healthy snack dish consisting of Apple slices with peanut butter, containing peanut butter, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:20:56.684Z"
+  },
+  "meal_img_4237738547": {
+    "mealId": "meal_img_4237738547",
+    "mealTitle": "Fruit smoothie (banana, protein, almond milk)",
+    "description": "Fruit smoothie (banana, protein, almond milk)",
+    "ingredients": [
+      "banana",
+      "almond milk"
+    ],
+    "mealCategory": "breakfast",
+    "mealType": "breakfast",
+    "imagePrompt": "A realistic healthy breakfast dish consisting of Fruit smoothie (banana, protein, almond milk), containing banana, almond milk, blended smoothie preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:20:56.688Z"
+  },
+  "meal_img_8486032415": {
+    "mealId": "meal_img_8486032415",
+    "mealTitle": "Grilled beef sirloin with roasted asparagus",
+    "description": "Grilled beef sirloin with roasted asparagus",
+    "ingredients": [
+      "beef",
+      "sirloin",
+      "asparagus"
+    ],
+    "mealCategory": "dinner",
+    "mealType": "dinner",
+    "imagePrompt": "A realistic healthy dinner dish consisting of Grilled beef sirloin with roasted asparagus, containing beef, sirloin, asparagus, grilled preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:20:56.692Z"
+  },
+  "meal_img_5268557518": {
+    "mealId": "meal_img_5268557518",
+    "mealTitle": "Lentil soup with whole wheat bread",
+    "description": "Lentil soup with whole wheat bread",
+    "ingredients": [
+      "lentil"
+    ],
+    "mealCategory": "lunch",
+    "mealType": "lunch",
+    "imagePrompt": "A realistic healthy lunch dish consisting of Lentil soup with whole wheat bread, containing lentil, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:20:56.696Z"
+  },
+  "meal_img_647561413": {
+    "mealId": "meal_img_647561413",
+    "mealTitle": "Protein bar",
+    "description": "Protein bar",
+    "ingredients": [
+      "Protein bar"
+    ],
+    "mealCategory": "snack",
+    "mealType": "snack",
+    "imagePrompt": "A realistic healthy snack dish consisting of Protein bar, containing Protein bar, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:21:07.098Z"
+  },
+  "meal_img_3157800398": {
+    "mealId": "meal_img_3157800398",
+    "mealTitle": "Whole grain pancakes with maple syrup",
+    "description": "Whole grain pancakes with maple syrup",
+    "ingredients": [
+      "pancakes"
+    ],
+    "mealCategory": "breakfast",
+    "mealType": "breakfast",
+    "imagePrompt": "A realistic healthy breakfast dish consisting of Whole grain pancakes with maple syrup, containing pancakes, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:21:07.106Z"
+  },
+  "meal_img_2134033132": {
+    "mealId": "meal_img_2134033132",
+    "mealTitle": "Baked cod with roasted sweet potato & quinoa",
+    "description": "Baked cod with roasted sweet potato & quinoa",
+    "ingredients": [
+      "quinoa",
+      "sweet potato",
+      "cod"
+    ],
+    "mealCategory": "dinner",
+    "mealType": "dinner",
+    "imagePrompt": "A realistic healthy dinner dish consisting of Baked cod with roasted sweet potato & quinoa, containing quinoa, sweet potato, cod, baked preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:21:07.110Z"
+  },
+  "meal_img_1061177644": {
+    "mealId": "meal_img_1061177644",
+    "mealTitle": "Mediterranean chicken wrap with salad",
+    "description": "Mediterranean chicken wrap with salad",
+    "ingredients": [
+      "chicken"
+    ],
+    "mealCategory": "lunch",
+    "mealType": "lunch",
+    "imagePrompt": "A realistic healthy lunch dish consisting of Mediterranean chicken wrap with salad, containing chicken, fresh & healthy preparation, mediterranean style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:21:07.113Z"
+  },
+  "meal_img_1088821897": {
+    "mealId": "meal_img_1088821897",
+    "mealTitle": "Brown rice and black bean bowl with avocado",
+    "description": "Brown rice and black bean bowl with avocado",
+    "ingredients": [
+      "avocado",
+      "rice"
+    ],
+    "mealCategory": "lunch",
+    "mealType": "lunch",
+    "imagePrompt": "A realistic healthy lunch dish consisting of Brown rice and black bean bowl with avocado, containing avocado, rice, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "meal_type_fallback",
+    "confidence": 90,
+    "cached": true,
+    "createdAt": "2026-08-18T11:21:13.417Z"
+  },
+  "meal_img_5838234971": {
+    "mealId": "meal_img_5838234971",
+    "mealTitle": "Egg white and whole egg omelette with toast",
+    "description": "Egg white and whole egg omelette with toast",
+    "ingredients": [
+      "egg",
+      "egg white"
+    ],
+    "mealCategory": "breakfast",
+    "mealType": "breakfast",
+    "imagePrompt": "A realistic healthy breakfast dish consisting of Egg white and whole egg omelette with toast, containing egg, egg white, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1510693206972-df098062cb71?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:21:13.426Z"
+  },
+  "meal_img_6211407730": {
+    "mealId": "meal_img_6211407730",
+    "mealTitle": "Grilled chicken breast with roasted vegetables",
+    "description": "Grilled chicken breast with roasted vegetables",
+    "ingredients": [
+      "chicken"
+    ],
+    "mealCategory": "dinner",
+    "mealType": "dinner",
+    "imagePrompt": "A realistic healthy dinner dish consisting of Grilled chicken breast with roasted vegetables, containing chicken, grilled preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:21:13.435Z"
+  },
+  "meal_img_6369406628": {
+    "mealId": "meal_img_6369406628",
+    "mealTitle": "Cottage cheese with pineapple slices",
+    "description": "Cottage cheese with pineapple slices",
+    "ingredients": [
+      "cottage cheese",
+      "pineapple"
+    ],
+    "mealCategory": "snack",
+    "mealType": "snack",
+    "imagePrompt": "A realistic healthy snack dish consisting of Cottage cheese with pineapple slices, containing cottage cheese, pineapple, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:21:13.440Z"
+  },
+  "meal_img_10210816885": {
+    "mealId": "meal_img_10210816885",
+    "mealTitle": "Pasta with lean ground turkey and tomato sauce",
+    "description": "Pasta with lean ground turkey and tomato sauce",
+    "ingredients": [
+      "turkey",
+      "sauce",
+      "pasta"
+    ],
+    "mealCategory": "dinner",
+    "mealType": "dinner",
+    "imagePrompt": "A realistic healthy dinner dish consisting of Pasta with lean ground turkey and tomato sauce, containing turkey, sauce, pasta, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:21:19.721Z"
+  },
+  "meal_img_2022548636": {
+    "mealId": "meal_img_2022548636",
+    "mealTitle": "French toast with strawberries",
+    "description": "French toast with strawberries",
+    "ingredients": [
+      "berries",
+      "french toast"
+    ],
+    "mealCategory": "breakfast",
+    "mealType": "breakfast",
+    "imagePrompt": "A realistic healthy breakfast dish consisting of French toast with strawberries, containing berries, french toast, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:21:19.733Z"
+  },
+  "meal_img_4110272536": {
+    "mealId": "meal_img_4110272536",
+    "mealTitle": "Trail mix (30g)",
+    "description": "Trail mix (30g)",
+    "ingredients": [
+      "Trail mix (30g)"
+    ],
+    "mealCategory": "snack",
+    "mealType": "snack",
+    "imagePrompt": "A realistic healthy snack dish consisting of Trail mix (30g), containing Trail mix (30g), fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1608797178974-15b35a64ede9?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:21:19.738Z"
+  },
+  "meal_img_7801093540": {
+    "mealId": "meal_img_7801093540",
+    "mealTitle": "Grilled veggie burger on whole wheat bun",
+    "description": "Grilled veggie burger on whole wheat bun",
+    "ingredients": [
+      "egg"
+    ],
+    "mealCategory": "lunch",
+    "mealType": "lunch",
+    "imagePrompt": "A realistic healthy lunch dish consisting of Grilled veggie burger on whole wheat bun, containing egg, grilled preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1520072959219-c595dc870360?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:21:19.741Z"
+  },
+  "meal_img_3328794864": {
+    "mealId": "meal_img_3328794864",
+    "mealTitle": "Acai bowl with granola and banana",
+    "description": "Acai bowl with granola and banana",
+    "ingredients": [
+      "banana"
+    ],
+    "mealCategory": "breakfast",
+    "mealType": "breakfast",
+    "imagePrompt": "A realistic healthy breakfast dish consisting of Acai bowl with granola and banana, containing banana, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:21:24.708Z"
+  },
+  "meal_img_12399522781": {
+    "mealId": "meal_img_12399522781",
+    "mealTitle": "Chicken Caesar salad with light dressing",
+    "description": "Chicken Caesar salad with light dressing",
+    "ingredients": [
+      "chicken"
+    ],
+    "mealCategory": "lunch",
+    "mealType": "lunch",
+    "imagePrompt": "A realistic healthy lunch dish consisting of Chicken Caesar salad with light dressing, containing chicken, fresh & healthy preparation, classic caesar style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:21:24.717Z"
+  },
+  "meal_img_3880685827": {
+    "mealId": "meal_img_3880685827",
+    "mealTitle": "Baked fish with quinoa and broccoli",
+    "description": "Baked fish with quinoa and broccoli",
+    "ingredients": [
+      "quinoa",
+      "fish"
+    ],
+    "mealCategory": "dinner",
+    "mealType": "dinner",
+    "imagePrompt": "A realistic healthy dinner dish consisting of Baked fish with quinoa and broccoli, containing quinoa, fish, baked preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:21:24.721Z"
+  },
+  "meal_img_4946063247": {
+    "mealId": "meal_img_4946063247",
+    "mealTitle": "Dark chocolate (2 squares) and almonds",
+    "description": "Dark chocolate (2 squares) and almonds",
+    "ingredients": [
+      "almonds",
+      "chocolate"
+    ],
+    "mealCategory": "snack",
+    "mealType": "snack",
+    "imagePrompt": "A realistic healthy snack dish consisting of Dark chocolate (2 squares) and almonds, containing almonds, chocolate, fresh & healthy preparation, modern healthy style, food photography, soft natural lighting, 4k quality",
+    "imageUrl": "https://images.unsplash.com/photo-1608797178974-15b35a64ede9?w=800&auto=format&fit=crop&q=80",
+    "imageSource": "semantic_verified_database",
+    "confidence": 98,
+    "cached": true,
+    "createdAt": "2026-08-18T11:21:24.726Z"
+  }
+}

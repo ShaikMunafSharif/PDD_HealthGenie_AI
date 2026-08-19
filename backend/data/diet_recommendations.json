@@ -1,0 +1,67 @@
+[
+  {
+    "category": "DIGESTIVE_DISCOMFORT",
+    "keywords": ["stomach", "nausea", "vomiting", "diarrhea", "abdominal", "digestion", "cramps"],
+    "plan": {
+      "Monday": { "breakfast": "Plain toast with a small banana", "lunch": "Clear vegetable broth with a small portion of white rice", "dinner": "Boiled potatoes or plain noodles", "snack": "Unsweetened applesauce" },
+      "Tuesday": { "breakfast": "Plain toast with a small banana", "lunch": "Clear vegetable broth with a small portion of white rice", "dinner": "Boiled potatoes or plain noodles", "snack": "Unsweetened applesauce" },
+      "Wednesday": { "breakfast": "Oatmeal with water", "lunch": "Light chicken or vegetable soup", "dinner": "Steamed zucchini and carrots with rice", "snack": "Plain crackers" },
+      "Thursday": { "breakfast": "Oatmeal with water", "lunch": "Light chicken or vegetable soup", "dinner": "Steamed zucchini and carrots with rice", "snack": "Plain crackers" },
+      "Friday": { "breakfast": "Scrambled eggs (no butter)", "lunch": "Plain chicken breast with rice", "dinner": "Baked potato with no skin", "snack": "Banana" },
+      "Saturday": { "breakfast": "Scrambled eggs (no butter)", "lunch": "Plain chicken breast with rice", "dinner": "Baked potato with no skin", "snack": "Banana" },
+      "Sunday": { "breakfast": "Toast with light jam", "lunch": "Clear broth and crackers", "dinner": "Plain noodles", "snack": "Applesauce" }
+    }
+  },
+  {
+    "category": "RESPIRATORY_DISCOMFORT",
+    "keywords": ["cough", "throat", "breathing", "cold", "congestion", "sneezing", "chest"],
+    "plan": {
+      "Monday": { "breakfast": "Warm oatmeal with honey", "lunch": "Chicken or vegetable noodle soup", "dinner": "Steamed vegetables with lean protein", "snack": "Warm ginger tea with lemon" },
+      "Tuesday": { "breakfast": "Warm oatmeal with honey", "lunch": "Chicken or vegetable noodle soup", "dinner": "Steamed vegetables with lean protein", "snack": "Warm ginger tea with lemon" },
+      "Wednesday": { "breakfast": "Toast with scrambled eggs", "lunch": "Lentil soup with warm bread", "dinner": "Baked fish with spinach", "snack": "Citrus fruits (oranges)" },
+      "Thursday": { "breakfast": "Toast with scrambled eggs", "lunch": "Lentil soup with warm bread", "dinner": "Baked fish with spinach", "snack": "Citrus fruits (oranges)" },
+      "Friday": { "breakfast": "Warm porridge", "lunch": "Tomato soup", "dinner": "Chicken stew", "snack": "Chamomile tea" },
+      "Saturday": { "breakfast": "Warm porridge", "lunch": "Tomato soup", "dinner": "Chicken stew", "snack": "Chamomile tea" },
+      "Sunday": { "breakfast": "Oatmeal with berries", "lunch": "Vegetable broth with rice", "dinner": "Steamed broccoli and tofu", "snack": "Honey and lemon water" }
+    }
+  },
+  {
+    "category": "FEVER_AND_INFECTION",
+    "keywords": ["fever", "chills", "sweating", "temperature", "hot"],
+    "plan": {
+      "Monday": { "breakfast": "Cool yogurt or a simple fruit smoothie", "lunch": "Light lentil or chicken broth", "dinner": "Soft cooked vegetables and a small portion of rice", "snack": "Fresh fruit slices or a fruit popsicle" },
+      "Tuesday": { "breakfast": "Cool yogurt or a simple fruit smoothie", "lunch": "Light lentil or chicken broth", "dinner": "Soft cooked vegetables and a small portion of rice", "snack": "Fresh fruit slices or a fruit popsicle" },
+      "Wednesday": { "breakfast": "Watermelon and oranges", "lunch": "Clear broth", "dinner": "Plain rice and boiled vegetables", "snack": "Coconut water" },
+      "Thursday": { "breakfast": "Watermelon and oranges", "lunch": "Clear broth", "dinner": "Plain rice and boiled vegetables", "snack": "Coconut water" },
+      "Friday": { "breakfast": "Fruit smoothie", "lunch": "Chicken soup", "dinner": "Mashed potatoes", "snack": "Popsicle" },
+      "Saturday": { "breakfast": "Fruit smoothie", "lunch": "Chicken soup", "dinner": "Mashed potatoes", "snack": "Popsicle" },
+      "Sunday": { "breakfast": "Oatmeal", "lunch": "Vegetable soup", "dinner": "Steamed fish and rice", "snack": "Applesauce" }
+    }
+  },
+  {
+    "category": "GENERAL_FATIGUE_WELLNESS",
+    "keywords": ["headache", "fatigue", "tired", "weakness", "muscle", "pain", "body ache", "dizziness"],
+    "plan": {
+      "Monday": { "breakfast": "Whole grain toast with avocado or eggs", "lunch": "Quinoa or brown rice bowl with mixed greens and chicken", "dinner": "Baked salmon or lentils with roasted vegetables", "snack": "A handful of mixed nuts or an apple" },
+      "Tuesday": { "breakfast": "Whole grain toast with avocado or eggs", "lunch": "Quinoa or brown rice bowl with mixed greens and chicken", "dinner": "Baked salmon or lentils with roasted vegetables", "snack": "A handful of mixed nuts or an apple" },
+      "Wednesday": { "breakfast": "Oatmeal with almonds and berries", "lunch": "Spinach salad with grilled tofu", "dinner": "Chicken stir-fry with broccoli", "snack": "Greek yogurt" },
+      "Thursday": { "breakfast": "Oatmeal with almonds and berries", "lunch": "Spinach salad with grilled tofu", "dinner": "Chicken stir-fry with broccoli", "snack": "Greek yogurt" },
+      "Friday": { "breakfast": "Smoothie with spinach, banana, and protein", "lunch": "Lentil soup", "dinner": "Turkey meatballs with zucchini noodles", "snack": "Hard-boiled egg" },
+      "Saturday": { "breakfast": "Smoothie with spinach, banana, and protein", "lunch": "Lentil soup", "dinner": "Turkey meatballs with zucchini noodles", "snack": "Hard-boiled egg" },
+      "Sunday": { "breakfast": "Whole wheat pancakes with fruit", "lunch": "Chicken salad sandwich", "dinner": "Baked sweet potato and black beans", "snack": "Carrot sticks and hummus" }
+    }
+  },
+  {
+    "category": "DEFAULT",
+    "keywords": [],
+    "plan": {
+      "Monday": { "breakfast": "Balanced cereal or toast with fruit", "lunch": "Salad with protein or a light sandwich", "dinner": "Balanced plate of vegetables, protein, and grains", "snack": "Fruit or yogurt" },
+      "Tuesday": { "breakfast": "Balanced cereal or toast with fruit", "lunch": "Salad with protein or a light sandwich", "dinner": "Balanced plate of vegetables, protein, and grains", "snack": "Fruit or yogurt" },
+      "Wednesday": { "breakfast": "Balanced cereal or toast with fruit", "lunch": "Salad with protein or a light sandwich", "dinner": "Balanced plate of vegetables, protein, and grains", "snack": "Fruit or yogurt" },
+      "Thursday": { "breakfast": "Balanced cereal or toast with fruit", "lunch": "Salad with protein or a light sandwich", "dinner": "Balanced plate of vegetables, protein, and grains", "snack": "Fruit or yogurt" },
+      "Friday": { "breakfast": "Balanced cereal or toast with fruit", "lunch": "Salad with protein or a light sandwich", "dinner": "Balanced plate of vegetables, protein, and grains", "snack": "Fruit or yogurt" },
+      "Saturday": { "breakfast": "Balanced cereal or toast with fruit", "lunch": "Salad with protein or a light sandwich", "dinner": "Balanced plate of vegetables, protein, and grains", "snack": "Fruit or yogurt" },
+      "Sunday": { "breakfast": "Balanced cereal or toast with fruit", "lunch": "Salad with protein or a light sandwich", "dinner": "Balanced plate of vegetables, protein, and grains", "snack": "Fruit or yogurt" }
+    }
+  }
+]
