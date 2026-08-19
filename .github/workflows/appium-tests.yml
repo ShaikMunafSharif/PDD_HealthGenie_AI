@@ -21,15 +21,10 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install Mobile App Dependencies
-        run: |
-          cd mobile
-          npm install
-
       - name: Install Appium Test Dependencies
         run: |
           cd appium-tests
-          npm install
+          npm install --legacy-peer-deps
 
       - name: Execute Appium Mobile E2E Test Suite
         run: |

@@ -8,6 +8,7 @@
     "test": "node tests/login-tests.js"
   },
   "dependencies": {
+    "chromedriver": "^122.0.0",
     "exceljs": "^4.4.0",
     "selenium-webdriver": "^4.18.1"
   }
