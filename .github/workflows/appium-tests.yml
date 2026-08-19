@@ -1,0 +1,45 @@
+name: HealthGenie Appium Mobile E2E Automated Testing
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  appium-mobile-e2e-tests:
+    name: Run Appium Mobile E2E Tests & Excel Generator
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Mobile App Dependencies
+        run: |
+          cd mobile
+          npm install
+
+      - name: Install Appium Test Dependencies
+        run: |
+          cd appium-tests
+          npm install
+
+      - name: Execute Appium Mobile E2E Test Suite
+        run: |
+          cd appium-tests
+          npm test
+
+      - name: Upload Appium Excel Test Report Artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: HealthGenie-Appium-Mobile-E2E-Report-300+
+          path: appium-tests/appium_test_report.xlsx
+          retention-days: 30
