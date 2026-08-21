@@ -81,8 +81,8 @@ jobs:
           path: appium-tests/appium_test_report.xlsx
           retention-days: 30
 
-  performance-tests:
-    name: 🚀 API Performance & Load Testing
+  loadtest:
+    name: 🚀 LoadTest
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -116,11 +116,11 @@ jobs:
           cd performance-tests
           node run-tests.js || true
 
-      - name: Upload Performance Excel Test Report Artifact
+      - name: Upload LoadTest Excel Report Artifact
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: HealthGenie-Performance-Test-Report
+          name: LoadTest
           path: performance-tests/performance_test_report.xlsx
           retention-days: 30
 
