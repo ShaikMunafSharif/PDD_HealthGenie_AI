@@ -72,10 +72,19 @@ async function runTestScenario(name, maxConcurrentUsers, durationSeconds, rampUp
 
     const actualDurationSec = (results.endTime - results.startTime) / 1000;
     results.rps = results.totalRequests / actualDurationSec;
-    results.minResponseTime = results.responseTimes.length > 0 ? Math.min(...results.responseTimes) : 0;
-    results.maxResponseTime = results.responseTimes.length > 0 ? Math.max(...results.responseTimes) : 0;
-    results.avgResponseTime = results.responseTimes.length > 0 ? 
-        results.responseTimes.reduce((a, b) => a + b, 0) / results.responseTimes.length : 0;
+    let minResponseTime = Infinity;
+    let maxResponseTime = -Infinity;
+    let sumResponseTime = 0;
+    
+    for (const t of results.responseTimes) {
+        if (t < minResponseTime) minResponseTime = t;
+        if (t > maxResponseTime) maxResponseTime = t;
+        sumResponseTime += t;
+    }
+    
+    results.minResponseTime = results.responseTimes.length > 0 ? minResponseTime : 0;
+    results.maxResponseTime = results.responseTimes.length > 0 ? maxResponseTime : 0;
+    results.avgResponseTime = results.responseTimes.length > 0 ? sumResponseTime / results.responseTimes.length : 0;
 
     console.log(`\n--- Completed ${name} ---`);
     console.log(`Total Requests: ${results.totalRequests}`);
